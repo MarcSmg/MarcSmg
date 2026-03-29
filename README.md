@@ -44,7 +44,7 @@ I also have a growing interest in **artificial intelligence and machine learning
 <table>
   <tr>
     <td width="50%">
-      <h3>🎸 <a href="https://github.com/MarcSmg/Fret-wise">Fretwise</a></h3>
+      <h3>🎸 <a href="https://github.com/MarcSmg/fret-wise">Fretwise</a></h3>
       <p>A web application that generates guitar chord diagrams from user input — built for arrangers and musicians.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
