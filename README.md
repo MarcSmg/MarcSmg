@@ -17,7 +17,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-dossagaby.vercel.app-0066FF?style=for-the-badge&logo=vercel&logoColor=white)](https://dossagaby.vercel.app)
 [![Email](https://img.shields.io/badge/Email-dossagaby%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dossagaby@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaby-dossa-53a624336)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+22964047557)
 
 </div>
 
