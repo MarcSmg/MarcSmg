@@ -45,7 +45,7 @@ I also have a growing interest in **artificial intelligence and machine learning
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/MarcSmg/chord-opus">ChordOpus</a></h3>
-      <p>A web application that generates guitar chord diagrams from user input — built for arrangers and musicians.</p>
+      <p>ChordOpus is an interactive music theory engine and chord progression builder designed for guitarists and songwriters. It combines real-time fretboard visualization, custom voicing discovery, and instant audio playback to turn raw harmonic theory into intuitive, practical inspiration.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
