@@ -1,13 +1,5 @@
-```
-███╗   ███╗ █████╗ ██████╗  ██████╗
-████╗ ████║██╔══██╗██╔══██╗██╔════╝
-██╔████╔██║███████║██████╔╝██║
-██║╚██╔╝██║██╔══██║██╔══██╗██║
-██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
-```
-
 <div align="center">
+<img src="marcDBFull.svg">
 
 ### Software Engineer
 *Focused on clean systems, user experience, and performance.*
