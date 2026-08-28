@@ -25,7 +25,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 Software engineering student at the **Institut de Formation et de Recherche en Informatique** in Benin.
 
@@ -39,12 +39,12 @@ I also have a growing interest in **artificial intelligence and machine learning
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🎸 <a href="https://github.com/MarcSmg/fret-wise">Fretwise</a></h3>
+      <h3><a href="https://github.com/MarcSmg/chord-opus">ChordOpus</a></h3>
       <p>A web application that generates guitar chord diagrams from user input — built for arrangers and musicians.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -59,7 +59,7 @@ I also have a growing interest in **artificial intelligence and machine learning
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -179,7 +179,7 @@ I also have a growing interest in **artificial intelligence and machine learning
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
